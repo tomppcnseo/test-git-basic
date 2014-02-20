@@ -9,6 +9,8 @@
 <?php
 echo '<h3>Git in folder</h3>';
 echo '<br />new line';
+echo '<br />new line again';
+echo '<br />new line save';
 ?>
 </body>
 </html>
