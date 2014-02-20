@@ -8,6 +8,7 @@
 <body>
 <?php
 echo '<h3>Git in folder</h3>';
+echo '<br />new line';
 ?>
 </body>
 </html>
